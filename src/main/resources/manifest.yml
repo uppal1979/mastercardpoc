@@ -1,4 +1,0 @@
----
-applications:
-  - name: mastercardpoc
-    path: ../../../target/app-0.0.1-SNAPSHOT.jar
